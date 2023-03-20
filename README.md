@@ -21,7 +21,7 @@
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=samridhgirdhar"/>
 </div>
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/samridhgirdhar/samridhgirdhar/assets/github-contribution-grid-snake.svg" />
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
