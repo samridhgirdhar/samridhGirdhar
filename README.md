@@ -1,8 +1,7 @@
 
-<h1 align="center">
-(https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&duration=1500&pause=200&color=F7F7F7&width=435&lines=Hi+there!%F0%9F%91%8B%F0%9F%8F%BB;I'm+Samridh+Girdhar)](https://git.io/typing-svg)
-</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&duration=1500&pause=200&color=F7F7F7&vCenter=true&width=435&lines=Hi+there!%F0%9F%91%8B%F0%9F%8F%BB;I'm+Samridh+Girdhar">
+</p>
 👋 Machine Learning enthusiast, action-oriented and dedicated second year undergraduate,  at IIIT Delhi pursuing a Bachelor of Technology in Computer Science and Artificial Intelligence.<br>🤝 looking to collaborate on ML based projects.<br>🌱 presently comprehending Computer Vision, Natural Language Processing, and Neuroscience.<br>
 
 
