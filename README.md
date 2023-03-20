@@ -21,17 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=samridhgirdhar&icon=0&color=12)](https://visitcount.itsvg.in)
 
-# 🔭Actions
-
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=samridhgirdhar&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/samridhgirdhar?template=classic&config.timezone=Asia%2FShanghai"/>
-</div>
 
