@@ -1,4 +1,10 @@
-# 💫 About Me:
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Samridh&center=true&size=30">
+  </a>
+</h1>
+
 👋 Machine Learning enthusiast, action-oriented and dedicated second year undergraduate,  at IIIT Delhi pursuing a Bachelor of Technology in Computer Science and Artificial Intelligence.<br>🤝 looking to collaborate on ML based projects.<br>🌱 presently comprehending Computer Vision, Natural Language Processing, and Neuroscience.<br>
 
 
