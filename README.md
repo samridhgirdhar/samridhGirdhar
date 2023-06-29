@@ -8,8 +8,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samridhgirdhar) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samridhgirdhar&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
